@@ -3,6 +3,6 @@
   <groupId>com.vinap.spring</groupId>
   <artifactId>DI</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  <name>Dependency Injection</name>
+  <name>Dependency  Injection</name>
   <description>Dependency injection</description>
 </project>
